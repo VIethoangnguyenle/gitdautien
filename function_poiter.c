@@ -21,4 +21,4 @@ int main(){
         (*func_pointer)(val_a,val_b);
     }
     return 0;
-}
+}//sdsdsdsd
